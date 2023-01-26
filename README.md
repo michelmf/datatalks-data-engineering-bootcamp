@@ -1,4 +1,4 @@
-# Data Engineering Bootcamp @ 2023 
+# Datatalks Data Engineering Bootcamp
 
 My codes and solutions for the free Data Engineering bootcamp from DataTalksClub. Link to the full course: [link](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 

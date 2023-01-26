@@ -8,5 +8,5 @@ My codes and solutions for the free Data Engineering bootcamp from DataTalksClub
 ## Week 1 - Introduction & Prerequisites
 * Google Cloud Platform
 * Docker and Docker-Compose
-* PostGreSQL
+* PostgreSQL
 * Terraform
